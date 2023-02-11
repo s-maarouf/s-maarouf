@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer/Software engineer
 - Cyber security enthusiasts 
 - Currently erolling in ALX software engineering program 
-- I’m currently open for a job opportunity, this is [my resume](#)
+- I’m currently open for a job opportunity, this is [my resume](https://www.icloud.com/iclouddrive/074j33sSfgKVaj8LfanHASu4g#RESUME)
 
 <br><br>
 
