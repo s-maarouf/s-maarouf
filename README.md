@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer/Software engineer
 - Cyber security enthusiasts 
 - Currently erolling in ALX software engineering program 
-- I’m currently open for a job opportunity, this is [my resume](https://www.icloud.com/iclouddrive/074j33sSfgKVaj8LfanHASu4g#RESUME)
+- I’m currently open for a job opportunity, this is [my resume](https://cvws.icloud-content.com/B/AQOTm-qfAPDx67L5a2MAhf3THtWPAUrYhuRGab57Q6A_jcyycNxDCm_Y/RESUME.pdf?o=ArGpSlQ33tAoTCPYq5tq1vuW2a8-96SJ9A3vbCVIDSnJ&v=1&x=3&a=CAogs4905-tUpWCMXkxNp82WyPpQYO-8HTBskXNHtjQd06oSbxCPxtCM5DAYj6OsjuQwIgEAUgTTHtWPWgRDCm_YaidLm4JOgR46pnyTeKlfUaMTyhzc01Bpdb6vSVWuTtIM_60sRP1IZENyJ_M0Y99H2vl5G5pHMbP5k0dl8Vc3S8CQphxrvbXZyB3Zdb7K_FZa8w&e=1676141072&fl=&r=6e63efc7-623a-4630-84eb-36b33f713880-1&k=8ekxnT1f2arVDnEg62RXOg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=66&s=kd6MSj6gGfuFBuPXkehmUO-_40E&cd=i)
 
 <br><br>
 
