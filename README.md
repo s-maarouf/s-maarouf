@@ -54,3 +54,46 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <br><b>Connect with me!</b>
+<br>
+<div align='left'>
+
+<ul>
+	
+<li>
+<a href="mailto:maarouf.salahedd@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  maarouf.salahedd-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/_smaarouf" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  _smaarouf-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+	<li>
+<a href="https://linkedin.com/in/salah-eddine-maarouf-b3a397228/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Salah Eddine Maarouf-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+	
+</ul>
+</div>
+
+
+<br>
+<br>
+
+-----
+
