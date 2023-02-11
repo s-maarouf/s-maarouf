@@ -19,7 +19,7 @@
 - Moroccan eighteener
 - A passionate Self-taught Front-end developer/Software engineer
 - Cyber security enthusiasts 
-- Currently making my own website
+- Currently erolling in ALX software engineering program 
 - I’m currently open for a job opportunity, this is [my resume](#)
 
 <br><br>
