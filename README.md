@@ -1,4 +1,4 @@
-<h1 align="center"><b>Assalamu Alaikum Warahmatullah, I'm Salah Eddine Maarouf </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> السلام عليكم ورحمة الله وبركاته <br> I'm Salah Eddine Maarouf </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=F77512&background=FFFFFF00&width=435&lines=student;self+taught+;cyber-security+enthusiasts;software+engineer+;Front-end+web+developer" alt="Typing SVG" /></a>
