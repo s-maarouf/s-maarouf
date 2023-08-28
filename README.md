@@ -1,32 +1,19 @@
-<h1 align="center"><b> السلام عليكم ورحمة الله وبركاته <br> I'm Salah Eddine Maarouf </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> السلام عليكم ورحمة الله وبركاته <br> <br> My name is Salah Eddine Maarouf </b></h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=2000&color=F77512&background=FFFFFF00&width=435&lines=student;self+taught+;cyber-security+enthusiasts;software+engineer+;Front-end+web+developer" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&size=25&pause=1000&color=F7E7DF&center=true&vCenter=true&width=435&lines=Software+Engineer;Student;Tech+enthusiasts;Self+taught" alt="Typing SVG" /></a>
 
 <br>
 
+## **About me**
 
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<h3>I am an 18-years-old enthusiast deeply immersed in the world of software engineering, brimming with motivation and a keen desire to secure a full-time employment opportunity. Driven by an insatiable curiosity and a passion for all things tech, I am extremely motivated to seek full-time employment, where I can use my knowledge and skills to continuously improve.</h3>
 
 <br>
-
-- Moroccan eighteener
-- A passionate Self-taught Front-end developer/Software engineer
-- Cyber security enthusiasts 
-- Currently erolling in ALX software engineering program 
-- I’m open for a job opportunity, this is [my resume](https://drive.google.com/file/d/1ph74vvlprX_WRlYfxmmKP8Tz4QlRmMKS/view?usp=share_link)
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <br>
 
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -35,7 +22,6 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 <br>
 
@@ -55,18 +41,18 @@
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-
 <br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <br><b>Connect with me!</b>
+
 <br>
 <div align='left'>
 
 <ul>
-	
+ 
 <li>
 <a href="mailto:maarouf.salahedd@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  maarouf.salahedd-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -82,18 +68,26 @@
 </li>
 
 <br>
-	<li>
+
+<li>
 <a href="https://linkedin.com/in/salah-eddine-maarouf-b3a397228/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Salah Eddine Maarouf-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-	
+
+<br>
+
+<li>
+<a href="https://drive.google.com/file/d/1NXTKZN2SR5ZXnrSESFFbXcBc80UtNcwF/view?usp=sharing">RESUME</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://drive.google.com/file/d/1_Ul1pqfAK3u7bC71MCw0kqsJQuplfcYX/view?usp=sharing">Curriculum vitae</a>
+</li>
+ 
 </ul>
 </div>
 
-
-<br>
-<br>
-
 -----
-
