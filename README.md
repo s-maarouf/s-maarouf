@@ -1,5 +1,7 @@
 <h1 align="center"><b> السلام عليكم ورحمة الله وبركاته <br> <br> My name is Salah Eddine Maarouf </b></h1>
 
+<br>
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&size=25&pause=1000&color=F7E7DF&center=true&vCenter=true&width=435&lines=Software+Engineer;Student;Tech+enthusiasts;Self+taught" alt="Typing SVG" /></a>
 
 <br>
@@ -78,7 +80,7 @@
 <br>
 
 <li>
-<a href="https://drive.google.com/file/d/1NXTKZN2SR5ZXnrSESFFbXcBc80UtNcwF/view?usp=sharing">RESUME</a>
+<a href="https://drive.google.com/file/d/1NXTKZN2SR5ZXnrSESFFbXcBc80UtNcwF/view?usp=sharing">Resume</a>
 </li>
 
 <br>
