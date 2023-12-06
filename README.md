@@ -80,13 +80,13 @@
 <br>
 
 <li>
-<a href="https://drive.google.com/file/d/11T85Mwx1CR7prql0W9kOF9w2D6LrdrRu/view?usp=sharing">Resume</a>
+<a href="https://drive.google.com/file/d/1hxskI3gogxQAVirb_QRpM-AbXHchFUtn/view?usp=sharing">Resume</a>
 </li>
 
 <br>
 
 <li>
-<a href="https://drive.google.com/file/d/1n_9ePGavgq3f8cF3nW_RmcwwYyLyjRYK/view?usp=sharing">Curriculum vitae</a>
+<a href="https://drive.google.com/file/d/1xXpcazVxxrmpbNm0Rda6ggUZX9Nzkbip/view?usp=sharing">Curriculum vitae</a>
 </li>
  
 </ul>
