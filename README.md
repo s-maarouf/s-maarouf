@@ -1,7 +1,6 @@
 <div align="center">
 <!-- <h1><b> السلام عليكم ورحمة الله وبركاته <br> <br> My name is Salah Eddine Maarouf </b></h1> -->
 <h1><b> Hi there👋 <br> It's me Salah Eddine Maarouf</b></h1>
-
 </div>
 
 <div align="left">
@@ -21,11 +20,10 @@ I am eager to join a dynamic team where I can further develop my skills while ac
 <br>
 
 # 📊 GitHub Stats:
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=s-maarouf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-maarouf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150"/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=s-maarouf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-maarouf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+</div>
 
 
 ## 🌐 Socials
